@@ -33,6 +33,16 @@ button {
   transition: border-color 0.25s;
 }
 
+button:hover {
+  border-color: var(--button-text);
+}
+
+button:focus,
+button:focus-visible,
+.selected {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
 button,
 .column-item {
   border-radius: 8px;
@@ -47,16 +57,18 @@ button,
   display: flex;
   align-items: center;
   height: 40px;
+  max-width: 40%;
   margin: 0.4em;
   padding: 0 0.8em;
 }
 
-button:hover {
-  border-color: var(--button-text);
+.action-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1.5em;
 }
 
-button:focus,
-button:focus-visible,
-.selected {
-  outline: 4px auto -webkit-focus-ring-color;
+.nav-bar-sub>*>* {
+  padding-left: 0.5em;
 }
