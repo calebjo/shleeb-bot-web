@@ -15,6 +15,16 @@
   margin-bottom: 1rem;
 }
 
+.nav-bar-sub {
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+.nav-bar-sub.volume {
+  align-items: flex-end;
+}
+
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
@@ -23,6 +33,19 @@ h1 {
 .body-container {
   overflow: auto;
   height: 750px;
+}
+
+.icon-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.2s;
+  margin: 0px 12px;
+}
+
+.icon-wrapper:hover {
+  filter: brightness(0.65);
 }
 
 button,
@@ -62,6 +85,11 @@ button,
   cursor: pointer;
 }
 
+button.activated {
+  outline: 4px auto -webkit-focus-ring-color;
+  background: #062121;
+}
+
 .column-item {
   display: flex;
   align-items: center;
@@ -81,6 +109,13 @@ button,
   justify-content: center;
   align-items: center;
   width: 1.5em;
+}
+
+.playlist-tag {
+  margin-left: 16px;
+  background: #166b50;
+  padding: 2px 8px;
+  border-radius: 8px;
 }
 
 .nav-bar-sub>*>* {

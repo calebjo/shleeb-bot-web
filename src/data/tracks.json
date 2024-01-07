@@ -6,65 +6,69 @@
       "tracks": [
         {
           "title": "Neverwinter Nights (NWN) - Heart of Forest Extended",
-          "source": "https://www.youtube.com/watch?v=fZdoVJHnMVI"
-        },
-        {
-          "title": "Neverwinter Nights (NWN) - Neverwinter Wood Extended",
-          "source": "https://www.youtube.com/watch?v=QdCUotmJAWw"
-        },
-        {
-          "title": "Jeremy Soule - The Town of Lonelywood | Icewind Dale: Heart of Winter | EXTENDED",
-          "source": "https://www.youtube.com/watch?v=769_o-7puzY"
-        },
-        {
-          "title": "Caprice(extended) - The Elder Scrolls III: Morrowind OST",
-          "source": "https://www.youtube.com/watch?v=dAhuM6qbWhU"
-        },
-        {
-          "title": "The Dunsward(seamlessly extended) - Pathfinder: Kingmaker OST",
-          "source": "https://www.youtube.com/watch?v=JDNih2E9Wh4"
-        },
-        {
-          "title": "The Myth Begins (slightly Extended) · Pathfinder: Wrath of the Righteous OST",
-          "source": "https://www.youtube.com/watch?v=S-rkPehFXD4"
-        },
-        {
-          "title": "Mist in the Mire",
-          "source": "https://www.youtube.com/watch?v=XspQr3RcdPE"
-        },
-        {
-          "title": "Jesper Kyd - Leaving Valhalla (Extended) - Assassin's Creed Valhalla Soundtrack",
-          "source": "https://www.youtube.com/watch?v=inCsLGVOz48"
-        },
-        {
-          "title": "Inon Zur - Chant of the Black Ravens | Icewind Dale II | EXTENDED",
-          "source": "https://www.youtube.com/watch?v=1N2g8msRsYU"
-        },
-        {
-          "title": "Frozen Lands",
-          "source": "https://www.youtube.com/watch?v=dJ_RDaIQ61Y"
-        },
-        {
-          "title": "Jeremy Soule - The Mage Tower | Icewind Dale | EXTENDED",
-          "source": "https://www.youtube.com/watch?v=t9QeRz-WR4E"
-        },
-        {
-          "title": "Together(seamlessly extended) - Pathfinder: Wrath of the Righteous OST",
-          "source": "https://www.youtube.com/watch?v=JorpUKKcZNY"
-        },
-        {
-          "title": "Ondras Gift(seamlessly extended) - Pillars of Eternity OST",
           "source": "https://www.youtube.com/watch?v=NvOGp0zyfl0"
         },
         {
-          "title": "The Dunsward (slightly Extended) · Pathfinder: Kingmaker OST",
+          "title": "Neverwinter Nights (NWN) - Neverwinter Wood Extended",
           "source": "https://www.youtube.com/watch?v=8PS0PL1WNyY"
+        },
+        {
+          "title": "Jeremy Soule - The Town of Lonelywood | Icewind Dale: Heart of Winter | EXTENDED",
+          "source": "https://www.youtube.com/watch?v=dAhuM6qbWhU"
+        },
+        {
+          "title": "Caprice(extended) - The Elder Scrolls III: Morrowind OST",
+          "source": "https://www.youtube.com/watch?v=JDNih2E9Wh4"
+        },
+        {
+          "title": "The Dunsward(seamlessly extended) - Pathfinder: Kingmaker OST",
+          "source": "https://www.youtube.com/watch?v=S-rkPehFXD4"
+        },
+        {
+          "title": "The Myth Begins (slightly Extended) · Pathfinder: Wrath of the Righteous OST",
+          "source": "https://www.youtube.com/watch?v=XspQr3RcdPE"
+        },
+        {
+          "title": "Mist in the Mire",
+          "source": "https://www.youtube.com/watch?v=inCsLGVOz48"
+        },
+        {
+          "title": "Jesper Kyd - Leaving Valhalla (Extended) - Assassin's Creed Valhalla Soundtrack",
+          "source": "https://www.youtube.com/watch?v=1N2g8msRsYU"
+        },
+        {
+          "title": "Inon Zur - Chant of the Black Ravens | Icewind Dale II | EXTENDED",
+          "source": "https://www.youtube.com/watch?v=dJ_RDaIQ61Y"
+        },
+        {
+          "title": "Frozen Lands",
+          "source": "https://www.youtube.com/watch?v=t9QeRz-WR4E"
+        },
+        {
+          "title": "Jeremy Soule - The Mage Tower | Icewind Dale | EXTENDED",
+          "source": "https://www.youtube.com/watch?v=JorpUKKcZNY"
+        },
+        {
+          "title": "Together(seamlessly extended) - Pathfinder: Wrath of the Righteous OST",
+          "source": "https://www.youtube.com/watch?v=fZdoVJHnMVI"
+        },
+        {
+          "title": "Ondras Gift(seamlessly extended) - Pillars of Eternity OST",
+          "source": "https://www.youtube.com/watch?v=QdCUotmJAWw"
+        },
+        {
+          "title": "The Dunsward (slightly Extended) · Pathfinder: Kingmaker OST",
+          "source": "https://www.youtube.com/watch?v=769_o-7puzY"
         }
       ]
     },
     {
       "title": "Battle - Dark",
       "tracks": [
+        {
+          "title": "Warhammer 40,000 Mechanicus OST - Children of the Omnissiah[Extended]",
+          "source": "https://www.youtube.com/watch?v=ztzq05IzYds"
+        },
         {
           "title": "Bloodborne OST - Ludwig the Accursed (Ludwig the Holy Blade) [Phase 1 Extended]",
           "source": "https://www.youtube.com/watch?v=-jahuVy9VdE"
