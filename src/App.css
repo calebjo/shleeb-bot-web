@@ -109,6 +109,7 @@ button.activated {
   justify-content: center;
   align-items: center;
   width: 1.5em;
+  padding-right: 0.5em;
 }
 
 .playlist-tag {
