@@ -52,7 +52,7 @@ function App() {
         <div className="nav-bar">
           <div className="nav-bar-sub">
             <button className={activeTab === "tracks" ? "selected" : ""} onClick={() => setActiveTab("tracks")}>Tracks</button>
-            <button className={activeTab === "playlists" ? "selected" : ""} onClick={() => setActiveTab("playlists")}>Playlists</button>
+            <button disabled={true} className={activeTab === "playlists" ? "selected" : ""} onClick={() => setActiveTab("playlists")}>Playlists</button>
           </div>
           <div className="nav-bar-sub">
             <div className="icon-wrapper">

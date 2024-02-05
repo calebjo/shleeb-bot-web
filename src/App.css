@@ -3,11 +3,11 @@
   height: 800px;
   margin: 0 auto;
   padding: 2rem;
-  --dark-background: #111b1b;
-  --element-background: #112e2e;
-  --button-background: #1b4b4b;
-  --button-text: #ace4dd;
-  --button-text-light: #D3EEEB;
+  --dark-background: #1b1119;
+  --element-background: #2e112e;
+  --button-background: #4b1b39;
+  --button-text: #d2ace4;
+  --button-text-light: #e4d3ee;
 }
 
 .nav-bar {
@@ -87,7 +87,7 @@ button,
 
 button.activated {
   outline: 4px auto -webkit-focus-ring-color;
-  background: #062121;
+  background: #210621;
 }
 
 .column-item {
@@ -114,7 +114,7 @@ button.activated {
 
 .playlist-tag {
   margin-left: 16px;
-  background: #166b50;
+  background: #6b164b;
   padding: 2px 8px;
   border-radius: 8px;
 }
